@@ -1,0 +1,9 @@
+.offcanvas{
+    width: 20%;
+    height: 4vh;
+    padding: 0;
+    margin-left: 37%;
+}
+#offcanvasTop{
+    height:10vh;
+}
